@@ -1,0 +1,9 @@
+.alert {
+  position: absolute;
+  margin-top: 50px;
+  width: 32rem;
+}
+
+.board {
+  margin-top: 20px;
+}

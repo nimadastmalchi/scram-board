@@ -1,0 +1,8 @@
+body {
+  font: 14px "Redressed", Futura, sans-serif;
+}
+/* this gets rid of the default margin of react apps*/
+
+ol, ul {
+  padding-left: 30px;
+}

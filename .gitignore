@@ -1,0 +1,6 @@
+node_modules
+*.png
+*.jpg
+*.jpeg
+PixelArrayData.txt
+.DS_Store
